@@ -1,0 +1,3 @@
+plaintext:aa123456789abcde
+key:f133457799bbcdff
+ciphertext:D76D39BE489E682C
